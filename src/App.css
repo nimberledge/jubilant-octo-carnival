@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+
+#FeedBox {
+  background-color: white;
+  width: 400px;
+  height: 100px;
+  text-align: center;
+  position: absolute;
+  left: 30%;
+}
+
+#FeedLabel {
+  color: blue;
+}
+
+#ConnectPageLink {
+  position: absolute;
+  top: 27%;
+}
+
+#MyFeedLabel {
+  color: blue;
+}
+
+#ProfileDetails {
+  position: absolute;
+  text-align: center;
+  width: 30%;
+  left: 3%;
+}
+
+#Bio {
+  color: blue;
+}
